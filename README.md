@@ -2,7 +2,7 @@
 
 ##  NOTE:
 
-The code in this repository is a copy of a group project from a private repository which CPEN 221 students had access to during the Winter 2021 session. As such, not all of the code was written by me. Aside from debugging and testing, the main functions written by me were:
+The code in this repository is a copy of a group project from a private repository which CPEN 221 students had access to during the Winter 2021 session. I was unable to import the repository and was forced to re-upload it. As such, it is unclear which functions were written by Ryan Choi. Aside from debugging and testing, the main functions written by me were:
 
 1.  Most of Task 1.1
 2.  The ReportActivtyInTimWindow and ReportOnUser functions from Task 2
