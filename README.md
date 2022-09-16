@@ -1,6 +1,6 @@
 # MP2: Analyzing Email Interactions
 
-##NOTE:
+##  NOTE:
 
 The code in this repository is a copy of a group project from a private repository which CPEN 221 students had access to during the Winter 2021 session. As such, not all of the code was written by me. Aside from debugging and testing, the main functions written by me were:
 
