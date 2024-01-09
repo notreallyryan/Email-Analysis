@@ -9,6 +9,7 @@ The code in this repository is a copy of a group project from CPEN 221. As this 
 3.  The DFS algorithm from Task 3
 4.  Task 4
 
+All code files can be found in the src folder.
 
 ## Motivation:
  
